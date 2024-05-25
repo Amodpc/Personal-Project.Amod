@@ -14,5 +14,5 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChannel_24_%2528Bangladeshi_TV_channel%2529&psig=AOvVaw1c1BGgQdmKICx9N9sQzZAQ&ust=1716721372765000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND2jtHTqIYDFQAAAAAdAAAAABAE"group-title="Bangladeshi Channel",Channel 24 TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/800px-Channel24logo.svg.png"group-title="Bangladeshi Channel",Channel 24 TV 
 http://cdn01.palki.tv/live/Channel24-M/tracks-v2a1/mono.m3u8
