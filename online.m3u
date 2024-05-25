@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Live Event Channel", Deepto TV
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Live Event Channel",Bangla TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
+#http://cdn01.palki.tv/live/BanglaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangladeshi Channel",Maasranga TV
 #http://xtv.ooo:8080/live/shahz18/18usman/245904.tshttps
