@@ -39,7 +39,7 @@ http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 #https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #https://bongohub.pw/bioscope.php?cc=channel-24
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Bangladeshi Channels",News 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Bangladeshi Channel",News 24
 #https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 http://cdn01.palki.tv/live/News24-M/index.m3u8
 
