@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Live Event Channel", Deepto TV
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangladeshi Channel",Maasranga TV
+#http://xtv.ooo:8080/live/shahz18/18usman/245904.tshttps
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Indian Bangla Channel",Ekushay TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+#https://ekusheyserver.com/etvlivesn.m3u8
+#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Indian Channel",NTV
+#https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Kid's Channel", Deepto TV
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Spots Channel",RTV
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+#https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+#http://cdn01.palki.tv/live/RTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Music Channel", Deepto TV
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u88
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Islamic Channel",SATV
+#http://xtv.ooo:8080/live/shahz18/18usman/245945.ts
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+#http://cdn01.palki.tv/live/SATV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="English Channel",Mohona TV
+http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
+#https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="FM Radio",Asian TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+#https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
+#http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
