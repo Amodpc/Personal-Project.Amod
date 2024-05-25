@@ -70,9 +70,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangladeshi Channel",Ekushay TV
-http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
-#https://ekusheyserver.com/etvlivesn.m3u8
-#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV
 #https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
@@ -104,10 +102,8 @@ http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi Channel",MY TV
-https://myflixbd.com/0.m3u8
-#http://xtv.ooo:8080/live/shahz18/18usman/245945.ts
-#https://livess.ncare.live/live-orgin/mytv-up-off.stream/chunks.m3u8
-#http://cdn01.palki.tv/live/MyTV-M/index.m3u8
+http://xtv.ooo:8080/Sehrish/12345/245964
+http://51.159.212.144:80/Sehrish/12345/245964?token=GhMNBEZcR1gRBAcBVF5UDAAABABWUVwHUQQPVQIMVFZWCQBTDVAHUgNEGBoXEhZRBVtrXgVGAgJWUw4CBxQUFhJUFzpcUEdYEVICDlZfXRZIFEBeDAEaClNRBgIFCwZUWQBJR0VdAUAJRAYPU1BSFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl4IEVgIGhZUDhFWRBAfFQ4RenJBTRMAHUFRCxFaCVoaXkQQR0YaFl4SO0pVERJFUVJVUxFDC0dVFxhHD1Iea1sLCApRB0JdWA8XGgpAVxUYEVVZDQhFChdqRAwGEVwWClNVUABGSw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
 https://mtlivestream.site/asian/ytlive/index.m3u8
@@ -141,9 +137,7 @@ https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=nagorik_tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangladeshi Channel",Boishakhi TV
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/800px-Channel9_bd.svg.png"group-title="Bangladeshi Channel",Channel 9
 #http://114.130.96.165:8080/1124/tracks-v1a1/index.m3u8
