@@ -1,79 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 T Sports
-https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 T Sports
-https://nayeemparvez.my.id/aptv/stream.php?id=29
-#http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
-#http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel4",IPL 2024 T Sports
-https://nayeemparvez.my.id/aptv/stream.php?id=27
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 T Sports
-https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=t_sports
-https://s1.nayeem-parvez.pw/jdotv.php?id=t_sports
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Gazi TV
-https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=gazi_tv_hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Gazi TV
-https://s1.nayeem-parvez.pw/jdotv.php?id=gazi_tv_hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Star Sports 1
-http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Star Sports 1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Star Sports 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Star Sports 1 Hindi
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Cric Life 1
-http://xtv.ooo:8080/live/shahz18/18usman/371469.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Sky Sports Cricket 
-http://xtv.ooo:8080/live/shahz18/18usman/167594.ts
-#https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Astro Cricket
-http://xtv.ooo:8080/live/shahz18/18usman/167581.ts
-#https://s1.bongohub.pw/mac/e4u.m3u8?id=24544
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Super Sports Cricket
-http://xtv.ooo:8080/live/shahz18/18usman/238475.ts
-#https://s1.bongohub.pw/mac/e4u.m3u8?id=24545
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Willow HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 ATN National
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Live English
-https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Live Hindi
-https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Event Channel",IPL 2024 Live
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV National
-http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Live Event Channel",T Sports
+http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV World
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV Chattogram
-http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV Sangsad
-http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangladeshi Channel",T Sports
-http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangladeshi Channel",T Sports
-https://live-cdn.tsports.com/live-01/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangladeshi Channel",T Sports
-https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangladeshi Channel",T Sports
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangladeshi Channel",Gazi TV
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangladeshi Channel",Gazi TV
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangladeshi Channel",Gazi TV
-http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
