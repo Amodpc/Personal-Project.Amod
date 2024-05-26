@@ -69,7 +69,8 @@ https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangladeshi Channel",Maasranga TV
-http://pakin.satocean.uk:8080/bangla_maasranga_hd/index.m3u8?token=8899da4c45c92ed7b30ce2b01ea9e8cc
+http://pakin.satocean.uk:8080/bangla_maasranga_hd/index.m3u8?token=4a2170d9580cd2d1b6d996c3c43d3748
+http://pakin.satocean.uk:8080/bangla_maasranga_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangladeshi Channel",Ekushay TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
