@@ -101,7 +101,7 @@ http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 #https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangladeshi Channel",Desh TV
-http://pakin.satocean.uk:8080/bangla_deshtv/index.m3u8
+http://pakin.satocean.uk:8080/bangla_deshtv/index.m3u8?token=678517bfc59e6e6621b89e6add70bdab 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi Channel",MY TV
 http://xtv.ooo:8080/Sehrish/12345/245964
