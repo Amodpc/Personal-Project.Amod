@@ -101,7 +101,7 @@ http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 #https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangladeshi Channel",Desh TV
-http://pakin.satocean.uk:8080/bangla_deshtv/index.m3u8?token=8259179e34913e37f188abde2743dd32
+http://pakin.satocean.uk:8080/bangla_deshtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi Channel",MY TV
 http://xtv.ooo:8080/Sehrish/12345/245964
@@ -169,9 +169,7 @@ https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Indian Bangla Channel",Star Jalsha HD
-#http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
-http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
-http://xtv.ooo:8080/live/shahz18/18usman/245898.ts
+http://humsab.xyz/IN_STARJ/tracks-v1a1/mono.m3u8?token=b24e6bb814bfbd496d1031515743e9b1 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Indian Bangla Channel",Zee Bangla HD
 http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
