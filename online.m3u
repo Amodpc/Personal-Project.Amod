@@ -36,7 +36,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716981551/ei/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangladeshi Channel",Ekattor TV
-http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716981552/ei/0LpWZq_xCquwsfIPu7iNuA4/ip/52.225.77.209/id/WoiCp0-zPUk.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-4pcxg5uivhx-q5js.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/vprv/1/playlist_type/LIVE/initcwndbps/758750/mh/rt/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-q5js/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/mt/1716960755/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,vprv,playlist_type/sig/AJfQdSswRgIhAO4SBtEm4FtwOnBYoE76yi9pLRkC2SjhzXxOb42V1fPAAiEA6j9rLQ15biOHrj25iN1VNk4ofHysmhcrkR-T_OooNtI%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgOUoAWVL6g3VL3besvg0g_1zO4EoZUr_0iCj0rS1ECYECIQDl5nn1m1zPKcu06EShYFQHujcVNyZC7P9lWTckCn2CoQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangladeshi Channel",ATN News
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
