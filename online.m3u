@@ -205,9 +205,7 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangla Music",Gaan Bangla
-#https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
-http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
-#http://176.119.29.52/live.ts?channelId=097&uid=3319&deviceMac=00:1A:79:50:31:74
+http://dpus2.ddns.net:5808/gaan-bangla/index.m3u8?token=ea220e735ff199679ec516a7460805e6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music",ATN Music
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
