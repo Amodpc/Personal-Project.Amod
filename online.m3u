@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Live Event Channel",T Sports
-http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
+http://46.229.253.27:80/live/007/007/130714.m3u8?token=ShJcU0BbQQNHCFIPBgANDFoJCFEHAlZUUlABUQRVVwFSBwJXV1JaWFAbGBpEF0dcWF1vWQIXXlACUlUGUUgRR0JVRm1aV0EDRw8BCwZVDBsVEkRZC1BGWwFOQEcMABEIEwYBBwoDWxtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPChRdDk4VBw1HQFBEURAJEVIPUw8WFBUAWkxXREJJRA9GI3VAThUAHEdXX0NdXV0RWRsICkEAFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCUELVgEEDgdRF0Q=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV World
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
@@ -212,9 +212,7 @@ https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
 
 
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music
-#https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
-#https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
-https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717251775/ei/X9paZojDNvaelu8Pr-KB4AY/ip/172.183.113.195/id/J5UjWwkrJUE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4pcxg5uivhx-q5js.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1t0ny8Q22wCVheEs91pim6dLHuA_GTz1PJgfIB6JcodEZPuJuaKo1R572I/vprv/1/playlist_type/DVR/initcwndbps/690000/mh/4T/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-q5js/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1717232664/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgbcUbGK4xL9kNCPjJ6Bp5xf2HJFU76hpBoz4MWzP-KssCIG7mNoGzOmYzqBLymbGPB4pr3-vkS8mkE5hkId2W063H/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgCCm62Pj7FXS_QnQ7kwimXKP3GeqOH6S1ExLmNGdyNjcCIQC3RZ6LnFHmmbagkWuyNkKrlZv9FJMUqkUyieHq4Vq3NA%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="Bangla Movies" tvg-logo="",Movie Bangla
 #http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -1065,7 +1063,7 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",Sony Yay
-http://xtv.ooo:8080/live/shahz18/18usman/26187.ts
+https://rkbdmoza.xyz/wp-theme//stream.m3u8?id=872
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
 http://xtv.ooo:8080/live/shahz18/18usman/150482.ts
