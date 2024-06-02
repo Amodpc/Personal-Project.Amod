@@ -4,8 +4,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Live Event Channel",T Sports
-http://46.229.253.27:80/live/007/007/130714.m3u8?token=ShJcU0BbQQNHCFIPBgANDFoJCFEHAlZUUlABUQRVVwFSBwJXV1JaWFAbGBpEF0dcWF1vWQIXXlACUlUGUUgRR0JVRm1aV0EDRw8BCwZVDBsVEkRZC1BGWwFOQEcMABEIEwYBBwoDWxtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPChRdDk4VBw1HQFBEURAJEVIPUw8WFBUAWkxXREJJRA9GI3VAThUAHEdXX0NdXV0RWRsICkEAFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCUELVgEEDgdRF0Q=
-
+http://46.229.253.27:80/live/007/007/130714.m3u8?token=ShJcU0BbQQNHCQBdBFYDXFgFBgUDDAcECAZbBlEGAlFTBFUGVQBaCFUbGBpEF0dcWF1vWQIXXlACUlUGUUgRR0JVRm1aV0EDRw8BCwZVDBsVEkRZC1BGWwFOQEcMABEIEwQEBAIHWgBHFRZdTxdQS1dRXG8CUBIIUgdADQsRX14dEltcbFcGVARXUBoNQQUbFRJZQxYXXg9EDg4bRwZaRkNRQFcRCUEIVwoCGhtBVlZMXkRCHxdeQ3MmQBtHAUtGVF5HW1xdQQNHVAdND0EZG1BDb0IDRhATVAMPUhdGCRABEhgQXlIbZgZWWlZSAEFQVl5DElwXVUMdQA9YCw1HXUNvRFtXEVkbVwoMCAFTBxtE
 
 
 
@@ -191,17 +190,57 @@ http://103.120.172.74:4400
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Music Channel",Gaan Bangla
-#https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
-http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
-#http://176.119.29.52/live.ts?channelId=097&uid=3319&deviceMac=00:1A:79:50:31:74
+http://dpus2.ddns.net:5808/gaan-bangla/index.m3u8?token=6ce2e654d175ab8ede2b8be1be805cc4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Music Channel",ATN Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg"group-title="Music Channel",RTV Music
-#https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
-#https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
-https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717323817/ei/yfNbZqTwBaqQlu8PvOuPoAI/ip/172.183.88.191/id/J5UjWwkrJUE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4pcxg5uivhx-q5js.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzNYBCaR28NdIiXpuZFUqB76cdr3lN-t2cPWu_53kysyJNNtmPQA6_ySQtY/vprv/1/playlist_type/DVR/initcwndbps/505000/mh/4T/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-q5js/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1717312819/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgGGcMH7lBTS6ztL3j4II1B_i6UaXgrpeTll9evJRjShMCIBrpMTZA6L6-PwRNSTBUekToidfBLy9ERsW0sSAAZ331/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAKZfyveqMAn_grMJZlj3n7olf1NGBR8JD0MzlQOhgaePAiEAt48ku1C86u5MNhiX0quvVaUru_pX1W8BOwtIqioPpDU%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Music Channel",Sangeet Bangla
+#http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Music Channel",9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png"group-title="Music Channel",9X Jalwa
+http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Music Channel",Zing
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zing_MOB/Fallback/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Music Channel",MTV Beats
+#https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+#https://bongohub.pw/bioscope.php?cc=mtv-beats
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Music Channel",MTV Beats HD
+#https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0bPvMqhXwnKZFw_Eu4jD6zhTlnEVabOxqfHiTB31LKKC_GTbH-58HU32BVg5mMUWCkWZLdlylA=s900-c-k-c0x00ffffff-no-rj"group-title="Music Channel",Mastii Music
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",E24(Ayna)
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2244311/QYOU_Media_Inc__QYOU_Media_and_Bollywood_Hungama_Unite_Forces_To.jpg?p=facebook"group-title="Music Channel",Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM
+
+#EXTINF:-1 tvg-logo="https://www.showboxchannel.com/wp-content/uploads/2022/04/Showbox_logo-5.png"group-title="Music Channel",Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+#https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Music Channel",Zoom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Music Channel",Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Music Channel",B4U Music
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
 
 
 
