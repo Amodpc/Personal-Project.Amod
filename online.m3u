@@ -215,5 +215,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/109966.ts
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 
 
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-ayG3y6FoHFamVSEq-OU1Inw-t1080x1080.jpg"group-title="Other All Channel", Jago FM (94.4)
-http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Other All Channel",Discovery Bangla HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
+
