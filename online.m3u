@@ -189,6 +189,23 @@ http://103.120.172.74:4400
 
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Music Channel",Gaan Bangla
+#https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+#http://176.119.29.52/live.ts?channelId=097&uid=3319&deviceMac=00:1A:79:50:31:74
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Music Channel",ATN Music
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg"group-title="Music Channel",RTV Music
+#https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
+#https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
+https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="Kid's Channel",Sonic
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
 #https://cdn.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
