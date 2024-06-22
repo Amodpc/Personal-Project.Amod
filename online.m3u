@@ -161,7 +161,7 @@ https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Indian Bangla Channel",Star Jalsha HD
-http://pakin2.satocean.uk:9090/ind2_star_jalsa_hd/index.m3u8?token=1f938d2b28eb4d8984664f1ba7a526f7
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Indian Bangla Channel",Zee Bangla HD
 http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
