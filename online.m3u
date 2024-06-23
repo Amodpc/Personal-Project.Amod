@@ -125,18 +125,13 @@ http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM
 https://fmrx.short.gy/Gazi_Tv_HD/Join@AbidDthOfficial/ABID_DTH.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangladeshi Channel",Bijoy TV
-#https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
-#http://xtv.ooo:8080/live/shahz18/18usman/245946.ts
-http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangladeshi Channel",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/800px-Channel9_bd.svg.png"group-title="Bangladeshi Channel",Channel 9 HD
-#http://114.130.96.165:8080/1124/tracks-v1a1/index.m3u8
-#http://test.bongodrive.pw/bdix.m3u8?ac=1124
-#https://livess.ncare.live/live-orgin/channel9hd.stream/chunks.m3u8
-http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangladeshi Channel",Nexus TV HD
 #https://himel-op.top/api/ytop.m3u8?id=UrW37VnWfy0
