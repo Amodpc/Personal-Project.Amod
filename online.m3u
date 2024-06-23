@@ -176,13 +176,13 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Indian Bangla Channel",Sony Aath
-http://51.159.212.144:80/live/RiyazMPT/433833/245989.ts?token=GhMNBEZcR1gRXw0KBwQBV1ICAVFRAVsFAFYHDQUIUwEEVAdUBg1UAApEGBoXEhZRBVtrXgVGAgJWUw4MChQUFhJUFzpcUEdYEVABCFFWURZIFEBeDAEaClNRBgIKDgdTVQJJR0VdAUAJRAUJU19RFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EUAZUFBgVAgtNXhYUThYJGnQnQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlVXUwxTFEk=
+http://xtv.ooo:8080/live/mahendra44/mhnd1234/245989.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian Bangla Channel",Sun Bangla
 http://xtv.ooo:8080/live/shahz18/18usman/245906.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Indian Bangla Channel",Jalsha Movies HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/jalsha-movies-hd/index.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Indian Bangla Channel",Jalsha Movies HD
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Indian Bangla Channel",Colors Bangla Cinema
 http://103.107.79.87:8080/1404/tracks-v1a1/mono.m3u8
