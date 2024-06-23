@@ -38,16 +38,13 @@ https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #https://bongohub.pw/bioscope.php?cc=dbc-news
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangladeshi Channel",Independent TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717072294/ei/Rh1YZu_6CsWcjuMPzqaLiAs/ip/172.68.231.157/id/TT_1SAVlwAU.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-4pcxg5uivhx-jb2e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f8qdKu-FhCfTdUDDrp-wgKCTtb66VTEFiMTg_ECYldX7Ac_TPH0f7WgECrk/vprv/1/playlist_type/DVR/initcwndbps/712500/mh/OD/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-jb2e/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/mt/1717050276/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKYW4heQNmvXp2QFizg8v5aQUViCjcDqmRBRJc4MArGaAiEA2xN2PL1J4MXlUssgnpbcuApSFWk2egJZTjx6TqKu89g%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAPsYvEL6Bj5RtMh-F4K3W1nevxiTlaBXLi-tReE-lJbmAiBOddXPctEYUC74b_8v5MXtlmcSHAHTu1QzgpwqSITMRQ%3D%3D/playlist/index.m3u8
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangladeshi Channel",Ekattor TV
 http://xtv.ooo:8080/global/global/245915
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangladeshi Channel",ATN News
 http://xtv.ooo:8080/live/mahendra44/mhnd1234/245905.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="Bangladeshi Channel",ATN Bangla
-http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
@@ -58,16 +55,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png"group-title="Bangladeshi Channel",Channel I
-#https://himel-op.top/api/ytop.m3u8?id=eqFbPey0Ohw
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
-#http://xtv.ooo:8080/live/RiyazMPT/433833/245913.ts
-#http://208.86.19.13:81/510.stream/index.m3u8
-http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangladeshi Channel",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -76,8 +70,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV
-#https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
-http://cdn01.palki.tv/live/NTV-M/index.m3u8
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV UK
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
