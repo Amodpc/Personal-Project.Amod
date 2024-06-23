@@ -96,7 +96,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi Channel",MY TV
-http://[64:ff9b::b077:1d34]/live.ts?channelId=106&uid=9592&deviceMac=00:1A:79:82:85:F0
+http://176.119.29.52:80/live.ts?channelId=106&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
 https://mtlivestream.site/asian/ytlive/index.m3u8
@@ -112,7 +112,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangladeshi Channel",Anando TV
-http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+http://lb8.bdplay.xyz:8080/live/1256%40%23zx/1256%40%23zxv/1312.ts?token=TRAOWEBQQAIaVgFQWVoHVlENWwwDV1QOUgABAVJQDVxQAlMNAwkBCwFHHUFLFhFSVFg9UVERDQkDAQsVE0ZLXERtD10RAkALD10GVRpOQUNcWAcaDwIACQkBDQ4HCwgVFEIPXRECQAwNUglVAUBPFVBNFl1HXVZUb1RcT1hQXRsMXBNVXxRAV1Y6VQZVAw1TFw9ACBcfFVFDQBsDX0ZUVRoQBFBHSgNMXUcLQQFUWxUZFwFXQF1DSkkSAxtkYBoVFFceTVZWEVFXCxNZGhYQFRkXC0tqQVJLREJcWFxWShsMEFYbHxoPWUA6UgxWDAZUQVwNVkYRDRoBEhUbXFxWUEJdFGZDUQYaAkcJWgBAHg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangladeshi Channel",Banglavision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
