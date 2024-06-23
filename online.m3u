@@ -4,7 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Live Event Channel",Nagorik TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Live Event Channel",Nagorik TV 2
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
 
 #EXTINF:-1 tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/NewFolder/20240603_175752.jpg"group-title="Live Event Channel",Sports TV
@@ -278,7 +278,7 @@ https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Spots Channel",T Sports 2
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Spots Channel",Nagorik TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Spots Channel",Nagorik TV 3
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Spots Channel",Star Sports 1 HD
