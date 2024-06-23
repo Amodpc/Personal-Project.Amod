@@ -44,14 +44,16 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717072294/ei/
 http://xtv.ooo:8080/global/global/245915
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangladeshi Channel",ATN News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716981553/ei/0LpWZvOXPMu_sfIP4be5sAI/ip/52.225.77.209/id/194w8F3ntEE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-4pcxg5uivhx-jb2e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9_MrLtZn93ri7NwZT8nONYHjrkrRcmz-YTjAxcjfkhogC4KCquGuUIUfwI/vprv/1/playlist_type/DVR/initcwndbps/737500/mh/1P/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-jb2e/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/dover/11/pacing/0/keepalive/yes/mt/1716961956/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIfYXGSrclr3zTp4jVrnpSf_WEpUa355g_jXWM356y7CwIhAM1RUgf5mSrLLdwPyz9mqfFuad-6dolDT-3z8MKS9pke/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AHWaYeowRAIgUCF8wRXvMR5ItfHZBfJCahMRzxGgFtVR-NXavKygUI0CIF7V6_mtry0Sz-1HAIlk3QLV5IkPSRMdOe8yYjltB0fY/playlist/index.m3u8
+http://xtv.ooo:8080/live/mahendra44/mhnd1234/245905.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="Bangladeshi Channel",ATN Bangla
+http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
-http://pakin.satocean.uk:8080/bangla_channel24_hd/tracks-v1a1/mono.m3u8?token=e2f32a472ae10346496eee79351cea61
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Bangladeshi Channel",News 24
-#https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
-http://cdn01.palki.tv/live/News24-M/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
