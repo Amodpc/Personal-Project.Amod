@@ -128,6 +128,9 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangladeshi Channel",Nagorik TV
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangladeshi Channel",G TV
+https://fmrx.short.gy/Gazi_Tv_HD/Join@AbidDthOfficial/ABID_DTH.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangladeshi Channel",Bijoy TV
 #https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 #http://xtv.ooo:8080/live/shahz18/18usman/245946.ts
@@ -205,7 +208,7 @@ http://103.120.172.74:4400
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Music Channel",Gaan Bangla
-http://dpus2.ddns.net:5808/gaan-bangla/index.m3u8?token=6ce2e654d175ab8ede2b8be1be805cc4
+http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Music Channel",ATN Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
