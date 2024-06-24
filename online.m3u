@@ -162,6 +162,12 @@ https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yjZRqG/images-1.jpg" group-title="Bangladeshi Channel",Movie Bangla
 https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9MXLN7/119685-1.png" group-title="Bangladeshi Channel",Jagoroni TV
+https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRJTTkh/Desh-TV24-Bangla-Logo.png" group-title="Bangladeshi Channel",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
 
 
 
@@ -272,7 +278,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=2
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Music Channel",B4U Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
+http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 
