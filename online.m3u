@@ -207,6 +207,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg"group-title="Music Channel",RTV Music
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719220922/ei/WuZ4ZtXkKbuusfIPyPifyAk/ip/52.234.36.14/id/J5UjWwkrJUE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4pcxg5uivhx-q5js.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_mFaSYs1XaUFLKkkH8VrbF1E_TUG5d4pyRgyj-k16THkkaagWkTt6IeHts/vprv/1/playlist_type/DVR/initcwndbps/741250/mh/4T/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-q5js/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1719201631/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAITGkmMTwgP3Yw3CFsIYOBa-Gh5oHnJX2pe0rwth-EsMAiEA-3JDBOFJpQTf1wQisTTQB3XshwDUt6EOhhgS8JwNbjQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgXzRPprWhCwbJHyskUQDLQ69GXKmqpSoQ94e25t-1qoECIQDASUEJyaYEjss5eqnEi2--rmJijRzA5DFD-CsMFEs75g%3D%3D/playlist/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719167696/ei/cBZ4ZuzVBOu-sfIPsvu6-AE/ip/52.157.5.224/id/J5UjWwkrJUE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4pcxg5uivhx-q5js.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fwM4CblMTRhyNZUB3F8zaYUT-iRgBgXxUZcg93GHquogGb6dHBXTpMkLizE/vprv/1/playlist_type/DVR/initcwndbps/597500/mh/4T/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-q5js/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1719146193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJmEMgzg3ROgZoHLmlf42ekl4TszB54qy-nsEnPbxzbzAiEAtwqYZ31KIO8Ep-OlcvZqvi8mTy5TyCYM4k8bu_PGkeg%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhANhqeK1HWIHXqCYmy5m6IaMilRzCAvcc9Dg8cSCj1myPAiEA0FaXbzEsQq1BJ55wOR7phOcMcsq1pS0xET40zPXHlWA%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Music Channel",Sangeet Bangla
@@ -217,7 +218,16 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png"group-title="Music Channel",9X Jalwa
-http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=108760gr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="Music Channel",9x Tashan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="Music Channel",9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="Music Channel",Arabic Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Music Channel",Zing
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zing_MOB/Fallback/index.m3u8
@@ -233,12 +243,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0bPvMqhXwnKZFw_Eu4jD6zhTlnEVabOxqfHiTB31LKKC_GTbH-58HU32BVg5mMUWCkWZLdlylA=s900-c-k-c0x00ffffff-no-rj"group-title="Music Channel",Mastii Music
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",E24(Ayna)
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2244311/QYOU_Media_Inc__QYOU_Media_and_Bollywood_Hungama_Unite_Forces_To.jpg?p=facebook"group-title="Music Channel",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM
 
 #EXTINF:-1 tvg-logo="https://www.showboxchannel.com/wp-content/uploads/2022/04/Showbox_logo-5.png"group-title="Music Channel",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
