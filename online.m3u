@@ -54,7 +54,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719220915/ei/
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719213923/ei/A8t4ZpqfH8jVsfIP-Ju6oAc/ip/52.234.38.67/id/FYptE83Tgk0.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-4pcxg5uivhx-jb2e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fxTaJncVFq9dmkkOzZDrS5j9nNIZn2ne708Sq-NrWWPLHPMmhm47SlDFUcI/vprv/1/playlist_type/DVR/initcwndbps/816250/mh/sp/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-jb2e/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/mt/1719195384/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPwp13KXgB7U5uQDa0Rarejcga2W55DS3FI3MT8FDvk2AiB7BjfH66q0UUet3wbj13JcZytzKllSwccRJQr2cHqaqw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgBNmpxrDJuTlCptFbn62huKD5435GHVlD4H9gTv0r1oYCIH1vGhSx9r94L-p8dOIfQN95eLYyjNkOQPxo_drCkVTH/playlist/index.m3u8
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Bangladeshi Channel",News 24
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015180-61003768.webp?v=8.2.3"group-title="Bangladeshi Channel",News 24
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
