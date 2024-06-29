@@ -10,6 +10,9 @@ https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/NewFolder/20240603_175752.jpg"group-title="Live Event Channel",Copa America
 http://113.212.111.246:8080/hls/col12.m3u8
 
+#EXTINF:-1 tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/NewFolder/20240603_175752.jpg"group-title="Live Event Channel",Copa America
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
 
 
 
