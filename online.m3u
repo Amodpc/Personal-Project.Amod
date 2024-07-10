@@ -135,6 +135,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:
 https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=Q1spxQzqIaEYmI68kTiKBQ&expires=1720796932&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"group-title="Bangladeshi Channel",Global TV
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1RuDCBNmOr6-348VcyilRR.ts
 http://103.147.169.52:8080/auth/FR3wffb49QNULwMt1gSbpYs8oYhFWu8SdckP7j1BqaMmelARNHN6hFNVeoQlL-NJFbusI_sjeSozXnM0E6bx0294gf8PKeFLXCdpFBTaQHwOQWHpC_JrwsybqiP9Bel3yz_aRxuUpsXDUCOPJXI767Hpf0HYSTlUu1yYE_zlv04FydhuvovOfGygHqsZ-3r9GNQJcB8hYvH9doC7sJBxmEfFpf4iNuCASfTQoUlVc_Av-TpegwG6woVC8GZP4dx5JA8mEihrtPZSs-sNhbrIwTahj0V1fLiXo3ktoo69GuM1GgfNjNy9tv3gSwtA00jckYG3lMaMeLMS4oZk_mzjBJRdss8A2XMhipZJRsGKOPkdxaC7ZDlZ1gcUkeYKQL_9ydHTMAsI_JAj-TNQe-cPyP-kbEGsKbtCHYWnda_XZ7dXs5G7KrGm_0_Dur2KrPOeRyUEuQytvZRpy9dpDWLvoi8U39g19_AVxhMWUN-sKxhlDL0lJg9D4Xbpm__QHtdHi9AFEq1npWiH4Bq4eyk0Ct6D8dOdBw9LRhSy4BzqBs7Ha6XflMJiRcnJm2adGrg8IpAv7D-8QNjEJlk7CHc86jkg9vgc3_7-SQ_NjEP1Q91hBz2jQU_DeUgkqC6V4s4isG6f14X-d9JGKDuFzQgpWnr3rtX6h8sQwO4mVxt7ozQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangladeshi Channel",Green TV
