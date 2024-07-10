@@ -224,7 +224,7 @@ https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Indian Channel",Sony Sab
 https://bongohub.pw/bioscope.php?cc=sony-sab-tv-live
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Indian Channel",Sony Sab
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/zeecinemahd.png?v=8.2.4"group-title="Indian Channel",Zee Cinema HD
 https://tv.proximitybd.xyz/join-@live_cricket_24.php?id=zee_cinema_hd
 
 
@@ -317,6 +317,9 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.pnghttps://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="Kid's Channel",Kids Cartoon
 https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/durantotv.png?v=8.2.4" group-title="Kid's Channel",Duronto TV 
+https://tv.proximitybd.xyz/join-@live_cricket_24.php?id=duronto_tv
 
 
 
