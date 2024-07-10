@@ -42,12 +42,10 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangladeshi Channel",DBC News
-#https://himel-op.top/api/ytop.m3u8?id=Sh66Zurop2U
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-#https://bongohub.pw/bioscope.php?cc=dbc-news
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=AY7i4Fc7KNxB1r7hV5AFLw&expires=1720796553&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangladeshi Channel",Independent TV
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=68f0eBy9fG_-VtzRNH5IGw&expires=1720796719&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangladeshi Channel",Ekattor TV
 http://xtv.ooo:8080/global/global/245915
@@ -70,7 +68,7 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=yLgRugna7Lb7
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png"group-title="Bangladeshi Channel",Channel I
-https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=_Aa1Hns9_Vs_p9r7pj3YlQ&expires=1720796439&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zSWSqxq/FB-IMG-1719197798170-1.jpg"group-title="Bangladeshi Channel",Channel Europe
 https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
