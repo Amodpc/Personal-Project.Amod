@@ -222,9 +222,12 @@ https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Indian Channel",Sony Sab
-#https://bongohub.pw/bioscope.php?cc=sony-sab-tv-live
-http://103.120.172.74:4400
-#https://tv5.hoichoi24.com/1701/tracks-v1a1/mono.m3u8
+https://bongohub.pw/bioscope.php?cc=sony-sab-tv-live
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Indian Channel",Sony Sab
+https://tv.proximitybd.xyz/join-@live_cricket_24.php?id=zee_cinema_hd
+
+
 
 
 
