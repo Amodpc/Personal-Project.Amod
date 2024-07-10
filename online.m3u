@@ -61,7 +61,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:D
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=yLgRugna7Lb7JtPy51Bg_Q&expires=1720795295&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla UK
-https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png"group-title="Bangladeshi Channel",Channel I
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=_Aa1Hns9_Vs_p9r7pj3YlQ&expires=1720796439&user=a83af553908c4b3c8b78fea43e66f862
