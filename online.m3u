@@ -153,7 +153,7 @@ https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9MXLN7/119685-1.png" group-title="Bangladeshi Channel",Jagoroni TV
-https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
+https://cdn.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRJTTkh/Desh-TV24-Bangla-Logo.png" group-title="Bangladeshi Channel",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
