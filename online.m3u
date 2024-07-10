@@ -25,10 +25,7 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=Hl5-VuadPjErEYgiGhm_nA&expires=1720796138&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladeshi Channel",Somoy TV
-#https://himel-op.top/api/ytop.m3u8?id=e_BQWtx15qI
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
-#https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=gYKMq_AKf8Bu9zHaNktZrQ&expires=1720797213&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangladeshi Channel",Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=cQIbfYhWDSnvGcdbCS21bg&expires=1720796783&user=a83af553908c4b3c8b78fea43e66f862
@@ -84,14 +81,10 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Bangladeshi Channel",RTV
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-#https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
-#http://cdn01.palki.tv/live/RTV-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=Ctpi02cCelxnAGglxpRjbw&expires=1720797058&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Bangladeshi Channel",SATV
-#http://xtv.ooo:8080/live/shahz18/18usman/245945.ts
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-#http://cdn01.palki.tv/live/SATV-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=BfhR7MA0k6MhK6GsjrerUg&expires=1720797149&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangladeshi Channel",Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
