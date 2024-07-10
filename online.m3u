@@ -35,10 +35,7 @@ https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=gYKMq_AKf8Bu
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=cQIbfYhWDSnvGcdbCS21bg&expires=1720796783&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"group-title="Bangladeshi Channel",Ekhon TV
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
-#http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
-#https://himel-op.top/api/ytop.m3u8?id=KRg6skX01so
-#https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
+https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangladeshi Channel",DBC News
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=AY7i4Fc7KNxB1r7hV5AFLw&expires=1720796553&user=a83af553908c4b3c8b78fea43e66f862
@@ -198,7 +195,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4dhSwQ/FB-IMG-1719205388583.jpg" group-title="Indian Bangla Channel",Amar Bangla
-https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 
 
