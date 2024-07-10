@@ -22,7 +22,7 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV World
-http://xtv.ooo:8080/live/mahendra44/mhnd1234/245922.m3u8
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=Hl5-VuadPjErEYgiGhm_nA&expires=1720796138&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladeshi Channel",Somoy TV
 #https://himel-op.top/api/ytop.m3u8?id=e_BQWtx15qI
@@ -111,9 +111,7 @@ https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 http://176.119.29.52:80/live.ts?channelId=106&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
-https://mtlivestream.site/asian/ytlive/index.m3u8
-#https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
-#http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=GTTsr75M4FBQjzZq7wRG0Q&expires=1720796023&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangladeshi Channel",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
@@ -127,8 +125,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=lFLBVNnpwi7YUBfi8ZXAIQ&expires=1720795620&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangladeshi Channel",Banglavision
-https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
-#http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=G1CZQeAsGEl1-XkssaMP1A&expires=1720796187&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangladeshi Channel",Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=esHWMwMTlfOOHuzU9ZmHEg&expires=1720753783&user=a83af553908c4b3c8b78fea43e66f862
