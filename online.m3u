@@ -177,10 +177,21 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Indian Bangla Channel",Sony Aath
-http://xtv.ooo:8080/live/mahendra44/mhnd1234/245989.ts
+#https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
+#http://watchindia.net:8880/live/65181/26572/2286.ts
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+
+#EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla Channel",Akash Aath
+#http://176.119.29.52/live.ts?channelId=79&uid=5060&deviceMac=00:1A:79:73:9C:A1
+#http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/100643
+http://tv.cloudcdn.me/live.ts?channelId=79&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian Bangla Channel",Sun Bangla
-http://xtv.ooo:8080/live/shahz18/18usman/245906.ts
+http://watchindia.net:8880/live/65181/26572/2290.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Indian Bangla Channel",Jalsha Movies HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
@@ -221,9 +232,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Music Channel",ATN Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg"group-title="Music Channel",RTV Music
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719220922/ei/WuZ4ZtXkKbuusfIPyPifyAk/ip/52.234.36.14/id/J5UjWwkrJUE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4pcxg5uivhx-q5js.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_mFaSYs1XaUFLKkkH8VrbF1E_TUG5d4pyRgyj-k16THkkaagWkTt6IeHts/vprv/1/playlist_type/DVR/initcwndbps/741250/mh/4T/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-q5js/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1719201631/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAITGkmMTwgP3Yw3CFsIYOBa-Gh5oHnJX2pe0rwth-EsMAiEA-3JDBOFJpQTf1wQisTTQB3XshwDUt6EOhhgS8JwNbjQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgXzRPprWhCwbJHyskUQDLQ69GXKmqpSoQ94e25t-1qoECIQDASUEJyaYEjss5eqnEi2--rmJijRzA5DFD-CsMFEs75g%3D%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719167696/ei/cBZ4ZuzVBOu-sfIPsvu6-AE/ip/52.157.5.224/id/J5UjWwkrJUE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4pcxg5uivhx-q5js.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fwM4CblMTRhyNZUB3F8zaYUT-iRgBgXxUZcg93GHquogGb6dHBXTpMkLizE/vprv/1/playlist_type/DVR/initcwndbps/597500/mh/4T/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-q5js/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1719146193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJmEMgzg3ROgZoHLmlf42ekl4TszB54qy-nsEnPbxzbzAiEAtwqYZ31KIO8Ep-OlcvZqvi8mTy5TyCYM4k8bu_PGkeg%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhANhqeK1HWIHXqCYmy5m6IaMilRzCAvcc9Dg8cSCj1myPAiEA0FaXbzEsQq1BJ55wOR7phOcMcsq1pS0xET40zPXHlWA%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg"group-title="Music Channel",RTV Music 
+#https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
+https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Music Channel",Sangeet Bangla
 #http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
