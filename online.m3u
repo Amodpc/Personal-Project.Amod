@@ -311,6 +311,16 @@ https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/durantotv.png?v=8.2.4" group-title="Kid's Channel",Duronto TV 
 https://tv.proximitybd.xyz/join-@live_cricket_24.php?id=duronto_tv
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="Kid's Channel",Kid's sland
+https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kid's Channel",Sony Yay
+http://starshare.live:8080/live/John123/John123/204.ts
+
+
+
+
+
 
 
 
@@ -334,7 +344,7 @@ http://179.124.14.153:8080/19/index.m3u8
 #EXTINF:-1 tvg-logo="https://bokulsports.com/upload/Sky%20logo/20240427_012051.jpg"group-title="Sports Channel",Sky Sports
 https://live.notebulk.xyz/8dSGnxrMxJsTbIkbEKLWXw/1719307224/uk_ssmain/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015273-42274411.webp?v=8.2.4"group-title="Sports Channel",SONY Sports 2
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015273-42274411.webp?v=8.2.4"group-title="Sports Channel",Sony Sports 2
 http://watchindia.net:8880/live/65596/46234/2608.m3u8
 
 
