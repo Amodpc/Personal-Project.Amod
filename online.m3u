@@ -183,10 +183,6 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A
 #http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/100643
 http://tv.cloudcdn.me/live.ts?channelId=79&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian Bangla Channel",Sun Bangla
 http://watchindia.net:8880/live/65181/26572/2290.ts
 
@@ -194,13 +190,10 @@ http://watchindia.net:8880/live/65181/26572/2290.ts
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Indian Bangla Channel",Colors Bangla Cinema
-http://103.107.79.87:8080/1404/tracks-v1a1/mono.m3u8
-#https://tv5.hoichoi24.com/1404/tracks-v1a1/mono.m3u8
-#https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
+http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/144.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Indian Bangla Channel",Khushboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/14.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4dhSwQ/FB-IMG-1719205388583.jpg" group-title="Indian Bangla Channel",Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
