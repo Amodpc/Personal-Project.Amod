@@ -206,10 +206,10 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666685288-73017936.png?v=8.2.4"group-title="Indian Channel",Sony Sab
-https://bongohub.pw/bioscope.php?cc=sony-sab-tv-live
+http://starshare.live:8080/live/john1947/john1947/145.ts
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/zeecinemahd.png?v=8.2.4"group-title="Indian Channel",Zee Cinema HD
-http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/1.ts
+http://starshare.live:8080/live/john1947/john1947/230.ts
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645519762-15083561.png?v=8.2.4"group-title="Indian Channel",Zee TV HD
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=OBTwcUKAX5l5p8HNrBysOw&expires=1720797330&user=a83af553908c4b3c8b78fea43e66f862
@@ -248,6 +248,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="Music Channel",Arabic Music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="Music Channel",M TV
+http://starshare.live:8080/live/john1947/john1947/130045.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Music Channel",Zing
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zing_MOB/Fallback/index.m3u8
