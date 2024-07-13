@@ -119,6 +119,7 @@ https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=rsLGsxM-p
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=w3fVjMrlNesWUo-VXsJKAg&expires=1721056384&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangladeshi Channel",G TV
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=G9DxyOy3GTFEMxbz-5h3eA&expires=1721056641&user=a83af553908c4b3c8b78fea43e66f862
 https://tv.proximitybd.xyz/join-@live_cricket_24.php?id=gazi_tv_hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangladeshi Channel",Bijoy TV
@@ -131,7 +132,7 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangladeshi Channel",Nexus TV HD
-https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=Q1spxQzqIaEYmI68kTiKBQ&expires=1720796932&user=a83af553908c4b3c8b78fea43e66f862
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=lM1U2MYwgyj6jwFs1qUHww&expires=1721056717&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"group-title="Bangladeshi Channel",Global TV
 http://starshare.live:8080/live/john1947/john1947/4231.ts
@@ -212,7 +213,7 @@ http://starshare.live:8080/live/john1947/john1947/145.ts
 http://starshare.live:8080/live/john1947/john1947/230.ts
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645519762-15083561.png?v=8.2.4"group-title="Indian Channel",Zee TV HD
-https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=OBTwcUKAX5l5p8HNrBysOw&expires=1720797330&user=a83af553908c4b3c8b78fea43e66f862
+https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=1FDidSul2Fo2vAWQJQZxow&expires=1721056812&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666685433-64049424.png?v=8.2.4"group-title="Indian Channel",Sony Max
 http://filex.tv:8080/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/33
