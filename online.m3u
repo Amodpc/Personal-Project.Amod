@@ -57,25 +57,25 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=yLgRugna7Lb7JtPy51Bg_Q&expires=1720795295&user=a83af553908c4b3c8b78fea43e66f862
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1721055196&md5=9y21unt2V41Ad4NaXhFtjA&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png"group-title="Bangladeshi Channel",Channel I
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=_Aa1Hns9_Vs_p9r7pj3YlQ&expires=1720796439&user=a83af553908c4b3c8b78fea43e66f862
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=ozuXI4AazMG1DvW65csxmg&expires=1721055586&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zSWSqxq/FB-IMG-1719197798170-1.jpg"group-title="Bangladeshi Channel",Channel Europe
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangladeshi Channel",Maasranga TV
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=p8eM_PLPHk2VXJZgNYFFWg&expires=1720815303&user=a83af553908c4b3c8b78fea43e66f862
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=h16bWva41Fv2eKMorbx3cg&expires=1721055641&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangladeshi Channel",Ekushay TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=aBKckGH6VFzBpwGucHOEYA&expires=1720815470&user=a83af553908c4b3c8b78fea43e66f862
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=JQm53rb6BwbahCkicnUYkw&expires=1721055749&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=5uNFE9tDW4z9xE-BDAr9WA&expires=1720815556&user=a83af553908c4b3c8b78fea43e66f862
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=Eata_auwFwepmhr3bfqmxA&expires=1721055813&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV UK
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
