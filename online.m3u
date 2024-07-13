@@ -189,7 +189,7 @@ http://watchindia.net:8880/live/65181/26572/2290.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Indian Bangla Channel",Jalsha Movies HD
 http://xtv.ooo:8080/live/574453/774499/245900.ts
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Indian Bangla Channel",Colors Bangla Cinema
 http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/144.ts
@@ -251,7 +251,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="Music Channel",Arabic Music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="Music Channel",M TV
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1673771982-53451580.png?v=8.2.4" group-title="Music Channel",M TV
 http://starshare.live:8080/live/john1947/john1947/130045.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Music Channel",Zing
@@ -329,7 +329,7 @@ http://starshare.live:8080/live/john1947/john1947/66162.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sports Channel",T Sports
-http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/81.ts
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=6i22jXUBrLldAKVmZ-4m0w&expires=1721054280&user=a83af553908c4b3c8b78f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sports Channel",T Sports 2
 http://113.212.111.246:8080/hls/col12.m3u8
