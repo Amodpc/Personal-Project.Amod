@@ -221,6 +221,10 @@ https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=1FDidSul2Fo2vAWQ
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666685433-64049424.png?v=8.2.4"group-title="Indian Channel",Sony Max
 http://filex.tv:8080/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/33
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC72ns_HGw0TuC4hfR9aCojuwy6iuXAXZb8A&s"group-title="Indian Channel",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
+
+
 
 
 
