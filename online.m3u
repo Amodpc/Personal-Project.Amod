@@ -328,6 +328,9 @@ http://starshare.live:8080/live/john1947/john1947/66162.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6exauUfDj_uR5vapfOzUKzhzpLFM9rzK86Q&s" group-title="Kid's Channel",kids Creation  
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTll9zvDDPsJ2rYn1rk92NgsOp-TDBOALQw&s" group-title="Kid's Channel",Desi Channel  
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+
 
 
 
