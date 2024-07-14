@@ -57,7 +57,7 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1721055196&md5=9y21unt2V41Ad4NaXhFtjA&user=a83af553908c4b3c8b78fea43e66f862
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=WJs5AUOcKyo0GVyMsaUeug&expires=1721093855&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
@@ -329,7 +329,7 @@ http://starshare.live:8080/live/john1947/john1947/66162.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sports Channel",T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=6i22jXUBrLldAKVmZ-4m0w&expires=1721054280&user=a83af553908c4b3c8b78f
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=6i22jXUBrLldAKVmZ-4m0w&expires=1721054280&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sports Channel",T Sports 2
 http://113.212.111.246:8080/hls/col12.m3u8
