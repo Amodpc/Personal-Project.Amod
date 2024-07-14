@@ -357,6 +357,12 @@ https://live.notebulk.xyz/8dSGnxrMxJsTbIkbEKLWXw/1719307224/uk_ssmain/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015273-42274411.webp?v=8.2.4"group-title="Sports Channel",Sony Sports 2
 http://watchindia.net:8880/live/65596/46234/2608.m3u8
 
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png"group-title="Sports Channel",Sony Sports 3
+http://xtv.ooo:8080/global/global/167595
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+
+
 
 
 
