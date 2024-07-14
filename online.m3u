@@ -325,6 +325,9 @@ http://starshare.live:8080/live/John123/John123/204.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="Kid's Channel",Super Hungama TV 
 http://starshare.live:8080/live/john1947/john1947/66162.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="Kid's Channel",kids Creation  
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+
 
 
 
