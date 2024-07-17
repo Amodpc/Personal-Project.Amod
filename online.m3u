@@ -28,25 +28,25 @@ http://watchindia.net:8880/live/65596/46234/2608.m3u8
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=pO7IaIYUk9MXEkZCyGWLfw&expires=1721054602&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladeshi Channel",Somoy TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=2i29t1ffr-0Z4dysjp0puw&expires=1721054669&user=a83af553908c4b3c8b78fea43e66f862
+http://starshare.live:8080/live/john1947/john1947/422.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangladeshi Channel",Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=h6-UX-70-rwNHhQyvUfVMw&expires=1721054720&user=a83af553908c4b3c8b78fea43e66f862
+http://starshare.live:8080/live/john1947/john1947/421.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"group-title="Bangladeshi Channel",Ekhon TV
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangladeshi Channel",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=YaqYhZjof8g6nX0UjLy3kw&expires=1721054870&user=a83af553908c4b3c8b78fea43e66f862
+http://starshare.live:8080/live/john1947/john1947/420.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangladeshi Channel",Independent TV
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=P8pBKQTY8y49YU8n_FZzjw&expires=1721054920&user=a83af553908c4b3c8b78fea43e66f862
+http://starshare.live:8080/live/john1947/john1947/423.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangladeshi Channel",Ekattor TV
 http://xtv.ooo:8080/global/global/245915
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangladeshi Channel",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=HALxGzQycGEgorPgkZ4Ixw&expires=1721054973&user=a83af553908c4b3c8b78fea43e66f862
+http://starshare.live:8080/live/john1947/john1947/427.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719220915/ei/U-Z4Zv3PKJKRsfIP_8qsiA0/ip/52.234.36.14/id/FYptE83Tgk0.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-4pcxg5uivhx-jb2e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-fhLYnnI7Iu0BdYIjvITu6mSzdG9XqfmvE5cJPg2ZK1EM4xVIdG0InXnuA/vprv/1/playlist_type/DVR/initcwndbps/721250/mh/sp/mip/103.190.205.59/mm/44/mn/sn-4pcxg5uivhx-jb2e/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/mt/1719201394/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgTJECaYm-3Ta3GI2roxj1wl5DTBVCMcgHZiyLczNOOaMCIQD9FbqAXLLxo0kc-ZjeBXIp-ZctaLOw-QbGMJJSglXVbQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAJfrkVjT8FKiHWZY1pNUhrDOJ2hDoCpb_8d-zi6nKPtaAiEAusY_5-Auif-sPavGqTJ2s18r4umma0NQSYj_B2dgR6o%3D/playlist/index.m3u8
