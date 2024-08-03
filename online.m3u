@@ -194,7 +194,7 @@ http://xtv.ooo:8080/live/574453/774499/245900.ts
 http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/144.ts
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014677-26292078.jpg?v=8.2.4"group-title="Indian Bangla Channel",Zee Bangla Cinema 
-http://starshare.live:8080/live/john1947/john1947/49615.ts
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Indian Bangla Channel",Khushboo Bangla
 http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/14.ts
@@ -221,7 +221,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 http://starshare.live:8080/live/john1947/john1947/145.ts
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/zeecinemahd.png?v=8.2.4"group-title="Indian Channel",Zee Cinema HD
-http://starshare.live:8080/live/john1947/john1947/230.ts
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=4237600.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645519762-15083561.png?v=8.2.4"group-title="Indian Channel",Zee TV HD
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=1FDidSul2Fo2vAWQJQZxow&expires=1721056812&user=a83af553908c4b3c8b78fea43e66f862
