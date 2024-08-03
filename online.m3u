@@ -31,16 +31,16 @@ https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=pO7IaIYUk9MXE
 http://starshare.live:8080/live/john1947/john1947/422.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangladeshi Channel",Jamuna TV
-http://starshare.live:8080/live/john1947/john1947/421.ts
+http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"group-title="Bangladeshi Channel",Ekhon TV
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangladeshi Channel",DBC News
-http://starshare.live:8080/live/john1947/john1947/420.ts
+http://xtv.ooo:8080/live/414559860/69865599/245916.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangladeshi Channel",Independent TV
-http://starshare.live:8080/live/john1947/john1947/423.ts
+http://xtv.ooo:8080/live/414559860/69865599/245916.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangladeshi Channel",Ekattor TV
 http://xtv.ooo:8080/global/global/245915
