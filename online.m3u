@@ -25,7 +25,7 @@ http://watchindia.net:8880/live/65596/46234/2608.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=pO7IaIYUk9MXEkZCyGWLfw&expires=1721054602&user=a83af553908c4b3c8b78fea43e66f862
+http://xtv.ooo:8080/live/414559860/69865599/245930.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladeshi Channel",Somoy TV
 http://starshare.live:8080/live/john1947/john1947/422.ts
@@ -184,7 +184,7 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A
 http://tv.cloudcdn.me/live.ts?channelId=79&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian Bangla Channel",Sun Bangla
-http://watchindia.net:8880/live/65181/26572/2290.ts
+http://xtv.ooo:8080/live/414559860/69865599/245906.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Indian Bangla Channel",Jalsha Movies HD
 http://xtv.ooo:8080/live/574453/774499/245900.ts
