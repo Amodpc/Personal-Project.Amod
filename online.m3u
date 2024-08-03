@@ -96,7 +96,7 @@ http://xtv.ooo:8080/live/414559860/69865599/245920.ts
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi Channel",MY TV
-http://176.119.29.52:80/live.ts?channelId=106&uid=9592&deviceMac=00:1A:79:82:85:F0
+http://xtv.ooo:8080/live/414559860/69865599/245964.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
 http://starshare.live:8080/live/john1947/john1947/430.ts
@@ -110,13 +110,13 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangladeshi Channel",Anando TV
-http://starshare.live:8080/live/john1947/john1947/399.ts
+http://xtv.ooo:8080/live/414559860/69865599/245929.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangladeshi Channel",Banglavision
 http://starshare.live:8080/live/john1947/john1947/426.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangladeshi Channel",Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=w3fVjMrlNesWUo-VXsJKAg&expires=1721056384&user=a83af553908c4b3c8b78fea43e66f862
+http://xtv.ooo:8080/live/414559860/69865599/245939.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangladeshi Channel",G TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=JTGf6jzf1tSTJfJIxeemLQ&expires=1721160417&user=a83af553908c4b3c8b78fea43e66f862
