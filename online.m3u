@@ -119,7 +119,6 @@ http://xtv.ooo:8080/live/414559860/69865599/245939.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangladeshi Channel",G TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=7eRevKC7J679a4qt82ZGeQ&expires=1722898082&user=c15be118d93a464dabf77260596012cf
-#https://evbr.short.gy/BDStreamHub.Gazitv.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangladeshi Channel",Bijoy TV
 http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
