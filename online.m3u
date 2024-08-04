@@ -420,6 +420,10 @@ http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirwDnY_7-LplFgyXINarN-iMr4HIMEGwVo74XLhqdvg&s"group-title="FM Radio",Al Quran Radio 
 http://66.45.232.131:9994/;stream.mp3
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRYu48o5oL9or6IM1JM5Pqnx371K0zAyw-Q&s"group-title="FM Radio",Radio Today 
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+
+
 
 
 
