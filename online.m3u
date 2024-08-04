@@ -344,6 +344,11 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxctKe6RLRKWPUZxMZO1j61GPBbg_pnKAwUQ&s"group-title="Kid's Channel",WOW Action
 http://xtv.ooo:8080/35588981/18988553/314753
 
+#EXTINF:-1 tvg-logo="https://www.metvbd.com/media/common/logo.png"group-title="Kid's Channel",WOW Action
+https://iptvbd.live/metv1080/1080.m3u8
+
+
+
 
 
 
