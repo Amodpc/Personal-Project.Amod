@@ -298,6 +298,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhoj
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1681371937-13830928.png?v=8.2.7"group-title="Music Channel",India Music 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOOu11qhYbeEwUj3MUYP2FKPYkCdkSwqlsF5ovEvOMQ&s"group-title="Music Channel",Joo Music 
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/b4umoview.png"group-title="Music Channel",B4U Movie 
 http://starshare.live:8080/live/john1947/john1947/6208.ts
 
