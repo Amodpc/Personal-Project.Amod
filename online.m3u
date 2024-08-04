@@ -347,13 +347,13 @@ http://xtv.ooo:8080/35588981/18988553/314753
 https://iptvbd.live/metv1080/1080.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="Kid's Channel",Disney Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsZryWXL6GLXi4WIdNMRT192qjD3t5cBKLQ&s"group-title="Kid's Channel",Disney Channel
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNYs7cTAJs4mNN-JBnhZmsk
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg"group-title="Kid's Channel",Zoo Moo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeSZO6h45cBzzls4jE5BL3Zm6wZxEY4RatDQ&s"group-title="Kid's Channel",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Kid's Channel",Gubbare
+#EXTINF:-1 tvg-logo="https://www.gubbaretv.com/wp-content/uploads/2020/09/15bb78da-df89-4c87-98ae-44ea6a0d36c7.png"group-title="Kid's Channel",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
 
