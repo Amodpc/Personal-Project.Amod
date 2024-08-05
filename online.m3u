@@ -196,7 +196,7 @@ http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/144.ts
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Indian Bangla Channel",Khushboo Bangla
-http://tv.trustbd.xyz:8080/live/4455@22a/4455@22a/14.ts
+https://cdn3.pishow.tv/live/283/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4dhSwQ/FB-IMG-1719205388583.jpg" group-title="Indian Bangla Channel",Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
