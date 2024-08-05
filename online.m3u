@@ -560,6 +560,9 @@ https://bdix.proximitybd.xyz/jado.php?id=bijoy_tv
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="JADOO TV", BOISHAKHI TV
 https://bdix.proximitybd.xyz/jado.php?id=boishakhi_tv
 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" group-title="Jadoo TV", Cbeebies Asia 
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=zOrmER5Qx33Die4g0Kxy5Q&expires=1723075988&user=98fbbc7885a9470e920abab5d870f7c3
+
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" group-title="JADOO TV", CGTN
 https://bdix.proximitybd.xyz/jado.php?id=cgtn_news
 
@@ -571,6 +574,9 @@ https://bdix.proximitybd.xyz/jado.php?id=channel_24
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="JADOO TV", CHANNEL 9
 https://bdix.proximitybd.xyz/jado.php?id=channel_9
+
+
+
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="JADOO TV", CHANNEL I
 https://bdix.proximitybd.xyz/jado.php?id=channel_i
