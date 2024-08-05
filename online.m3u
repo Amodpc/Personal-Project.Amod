@@ -653,6 +653,9 @@ https://edge01.iptv.digijadoo.net/live/sangsad_tv/playlist.m3u8?md5=8cXt6gsuG4D8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="JADOO TV", SOMOY TV
 https://bdix.proximitybd.xyz/jado.php?id=
 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sunnah_tv.png" group-title="JADOO TV", Sunnah TV 
+https://edge01.iptv.digijadoo.net/live/sunnah_tv/playlist.m3u8?md5=K6ne1efdj2ERR-T9M3a0JA&expires=1723079960&user=98fbbc7885a9470e920abab5d870f7c3
+
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="JADOO TV", T SPORTS
 https://bdix.proximitybd.xyz/jado.php?id=
 
