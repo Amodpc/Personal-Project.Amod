@@ -276,7 +276,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 #https://bongohub.pw/bioscope.php?cc=mtv-beats
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Music Channel",MTV Beats HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+https://jio.dinesh29.com.np/live/jio-universal/mtv-beats-hd/index.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0bPvMqhXwnKZFw_Eu4jD6zhTlnEVabOxqfHiTB31LKKC_GTbH-58HU32BVg5mMUWCkWZLdlylA=s900-c-k-c0x00ffffff-no-rj"group-title="Music Channel",Mastii Music
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
@@ -292,7 +292,8 @@ https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/E24-TV-Channel.jpg/220px-E24-TV-Channel.jpg" group-title="Music Channel",E 24
-http://longstream-04.ajaah.com/PlayBoxTV/E24/E24_1/stream.m3u8
+https://jio.dinesh29.com.np/live/jio-universal/e-24/index.ts
+#http://longstream-04.ajaah.com/PlayBoxTV/E24/E24_1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8n680Y92pP6uzuIn2agxK14ETYvZtNVPo-UKwg6H&s=0" group-title="Music Channel",Bhojpuri Music 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
