@@ -531,11 +531,13 @@ https://bdix.proximitybd.xyz/jado.php?id=atn_news
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="Jadoo TV",AL Jazeera HD
 https://bdix.proximitybd.xyz/jado.php?id=al_jazeera
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="JADOO TV", AL JAZEERA
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="Jadoo TV",Anando TV 
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=OLS3lVGMnKUpI_xR4nIX_Q&expires=1723075128&user=98fbbc7885a9470e920abab5d870f7c3
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" group-title="Jadoo TV", Arirang
+https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=DFFw1R7tAyQIRS4FEVMkjw&expires=1723075344&user=98fbbc7885a9470e920abab5d870f7c3
 
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="JADOO TV", ASIAN TV
-https://bdix.proximitybd.xyz/jado.php?id=asian_tv
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="JADOO TV", BBC LIFESTYLE 
 https://bdix.proximitybd.xyz/jado.php?id=bbc_lifestyle
