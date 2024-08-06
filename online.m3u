@@ -32,7 +32,7 @@ http://starshare.live:8080/live/john1947/john1947/422.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangladeshi Channel",Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=_C7bqNxcheesKYy8aVFtlg&expires=1723038813&user=52c59f345b2f42c2879e33c29b347ddd
-#http://starshare.live:8080/live/john1947/john1947/421.ts
+http://starshare.live:8080/live/john1947/john1947/421.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"group-title="Bangladeshi Channel",Ekhon TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w/ts
