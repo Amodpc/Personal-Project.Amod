@@ -68,13 +68,13 @@ http://ktv.im:8080/live/111222/222111/83784.ts
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangladeshi Channel",Maasranga TV
-http://xtv.ooo:8080/live/414559860/69865599/245904.ts
+http://ktv.im:8080/live/111222/222111/83793.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangladeshi Channel",Ekushay TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV
-http://starshare.live:8080/live/john1947/john1947/424.ts
+http://ktv.im:8080/live/111222/222111/83778.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV UK
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
@@ -83,7 +83,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://xtv.ooo:8080/live/414559860/69865599/245911.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Bangladeshi Channel",SATV
-http://starshare.live:8080/live/john1947/john1947/3814.ts
+http://ktv.im:8080/live/111222/222111/83796.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangladeshi Channel",Deepto TV
 http://starshare.live:8080/live/john1947/john1947/1034.ts
