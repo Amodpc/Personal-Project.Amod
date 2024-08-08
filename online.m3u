@@ -122,13 +122,13 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=7eRevKC7J679a4qt82ZGeQ&expires=1722898082&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangladeshi Channel",Bijoy TV
-http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
+http://ktv.im:8080/live/111222/222111/83810.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangladeshi Channel",Boishakhi TV
 http://starshare.live:8080/live/john1947/john1947/390.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/800px-Channel9_bd.svg.png"group-title="Bangladeshi Channel",Channel 9 HD
-http://starshare.live:8080/live/john1947/john1947/434.ts
+http://ktv.im:8080/live/111222/222111/83805.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangladeshi Channel",Nexus TV HD
 http://starshare.live:8080/live/john1947/john1947/411.ts
