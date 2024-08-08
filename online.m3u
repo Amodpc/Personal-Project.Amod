@@ -56,13 +56,13 @@ http://ktv.im:8080/live/111222/222111/83790.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
-http://starshare.live:8080/live/john1947/john1947/431.ts
+http://ktv.im:8080/live/111222/222111/83782.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png"group-title="Bangladeshi Channel",Channel I
-http://starshare.live:8080/live/john1947/john1947/34665.ts
+http://ktv.im:8080/live/111222/222111/83784.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zSWSqxq/FB-IMG-1719197798170-1.jpg"group-title="Bangladeshi Channel",Channel Europe
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8
