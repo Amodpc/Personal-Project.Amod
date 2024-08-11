@@ -244,7 +244,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Music Channel",ATN Music
-https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg"group-title="Music Channel",RTV Music 
 #https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
@@ -363,7 +363,6 @@ http://xtv.ooo:8080/35588981/18988553/314753
 #EXTINF:-1 tvg-logo="https://www.metvbd.com/media/common/logo.png"group-title="Kid's Channel",Me TV 
 https://iptvbd.live/metv1080/1080.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsZryWXL6GLXi4WIdNMRT192qjD3t5cBKLQ&s"group-title="Kid's Channel",Disney Channel
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNYs7cTAJs4mNN-JBnhZmsk
 
@@ -412,7 +411,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=8982&deviceMac=00:1A:79:A5:D6
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png?20180110124558"group-title="Islamic Channel", ATN Islamic TV
-https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 
 
 
@@ -521,11 +520,6 @@ https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-5-hd/in
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" group-title="Jadoo TV", ATN BANGLA
 https://bdix.proximitybd.xyz/jado.php?id=atn_bangla
 
@@ -625,9 +619,6 @@ https://bdix.proximitybd.xyz/jado.php?id=maasranga_tv
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" group-title="Jadoo TV", NHK World Japan  
 https://edge01.iptv.digijadoo.net/live/nhk_world/playlist.m3u8?md5=KByOb-LUTzEYhToJvM9dBQ&expires=1723078905&user=98fbbc7885a9470e920abab5d870f7c3
 
-
-
-
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="Jadoo TV", NTV
 https://bdix.proximitybd.xyz/jado.php?id=
 
@@ -669,27 +660,6 @@ https://bdix.proximitybd.xyz/jado.php?id=
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="Jadoo TV", ZEE TV
 https://bdix.proximitybd.xyz/jado.php?id=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
