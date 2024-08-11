@@ -96,7 +96,7 @@ http://xtv.ooo:8080/live/414559860/69865599/245920.ts
 http://starshare.live:8080/live/john1947/john1947/2883.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi Channel",MY TV
-http://xtv.ooo:8080/live/414559860/69865599/245964.ts
+http://ktv.im:8080/live/111222/222111/83789.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
 http://ktv.im:8080/live/111222/222111/83797.ts
@@ -126,7 +126,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=7eRevKC7J679
 http://ktv.im:8080/live/111222/222111/83810.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangladeshi Channel",Boishakhi TV
-http://starshare.live:8080/live/john1947/john1947/390.ts
+http://ktv.im:8080/live/111222/222111/83801.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/800px-Channel9_bd.svg.png"group-title="Bangladeshi Channel",Channel 9 HD
 http://ktv.im:8080/live/111222/222111/83805.ts
