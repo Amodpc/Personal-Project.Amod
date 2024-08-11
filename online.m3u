@@ -25,7 +25,7 @@ http://watchindia.net:8880/live/65596/46234/2608.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV World
-http://xtv.ooo:8080/live/414559860/69865599/245930.ts
+http://ktv.im:8080/live/111222/222111/83824.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladeshi Channel",Somoy TV
 http://ktv.im:8080/live/111222/222111/83781.ts
@@ -382,7 +382,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sports Channel",T Sports
-https://humsab.xyz/GBanTv/index.m3u8
+http://ktv.im:8080/live/111222/222111/83779.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sports Channel",T Sports 2
 http://113.212.111.246:8080/hls/col12.m3u8
