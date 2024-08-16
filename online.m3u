@@ -57,7 +57,8 @@ http://ktv.im:8080/live/111222/222111/83790.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
-http://ktv.im:8080/live/111222/222111/83782.ts
+http://194.42.205.100:8070/live/AmirBilali/76448035/298392.ts
+#http://ktv.im:8080/live/111222/222111/83782.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
