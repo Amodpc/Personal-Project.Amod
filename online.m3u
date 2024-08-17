@@ -51,7 +51,7 @@ http://xtv.ooo:8080/global/global/245915
 http://128.0.104.39:8070/live/AmirBilali/76448035/69342.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
-http://ktv.im:8080/live/111222/222111/83790.ts
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015180-61003768.webp?v=8.2.3"group-title="Bangladeshi Channel",News 24
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
