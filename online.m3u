@@ -99,7 +99,8 @@ http://xtv.ooo:8080/live/414559860/69865599/245920.ts
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi Channel",MY TV
-http://ktv.im:8080/live/111222/222111/83789.ts
+https://mytvbangla.com/0.m3u8
+#http://ktv.im:8080/live/111222/222111/83789.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
