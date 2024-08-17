@@ -48,7 +48,7 @@ http://xtv.ooo:8080/live/414559860/69865599/245916.ts
 http://xtv.ooo:8080/global/global/245915
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangladeshi Channel",ATN News HD
-http://ktv.im:8080/live/111222/222111/83792.ts
+http://128.0.104.39:8070/live/AmirBilali/76448035/69342.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
 http://ktv.im:8080/live/111222/222111/83790.ts
