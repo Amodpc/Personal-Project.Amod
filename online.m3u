@@ -387,7 +387,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
 http://ktv.im:8080/live/111222/222111/83779.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sports Channel",T Sports 2
-http://113.212.111.246:8080/hls/col12.m3u8
+https://cdn.querysports.com/hls/copa_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel",Star Sports 1 HD
 http://103.151.60.2:5050/hoichoi24.com-help-you/index.m3u8
