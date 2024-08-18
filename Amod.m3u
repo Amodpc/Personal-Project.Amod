@@ -158,6 +158,14 @@ https://cdn.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRJTTkh/Desh-TV24-Bangla-Logo.png" group-title="Bangladeshi Channel",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgNcLE06cgs_JjYoF6iZxNpm6p2rHq9FZyuA&usqp=CAU" group-title="Bangladeshi Channel",Rajdhani TV
+https://livess.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
+
+
+
+
+
+
 
 
 
