@@ -321,6 +321,9 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/b4umusic.png?v=8.2.8"group-title="Music Channel",B4U Music  
 https://jio.dinesh29.com.np/live/jio-universal/b4u-music/index.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNsdtMt6OotSWPWuCX3wK9TPhP0PJYjFZUhtXm4g3dQQ&s"group-title="Music Channel",Colosal TV
+https://livess.ncare.live/live-orgin/colosal.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/b4umoview.png"group-title="Music Channel",B4U Movie 
 http://starshare.live:8080/live/john1947/john1947/6208.ts
 
