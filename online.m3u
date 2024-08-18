@@ -480,6 +480,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m
 
 
 
+
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="sony-hd" group-title="Sony LIV",Sony HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="sony-sab-hd" group-title="Sony LIV",Sony SAB HD
@@ -520,13 +521,8 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8|Referer=https://mh
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" tvg-chno="sony-ten-5-hd" group-title="Sony LIV",Sony Sports 5 HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-id="sony-kal" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="sony-kal" group-title="Sony LIV",Sony KAL
+#EXTINF:-1 tvg-id="sony-kal" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC72ns_HGw0TuC4hfR9aCojuwy6iuXAXZb8A&s" tvg-chno="sony-kal" group-title="Sony LIV",Sony KAL
 https://mhdtvweb.com/sliv/stream.php?id=sony-kal&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-
-
-
-
-
 
 
 
