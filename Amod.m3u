@@ -161,8 +161,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgNcLE06cgs_JjYoF6iZxNpm6p2rHq9FZyuA&usqp=CAU" group-title="Bangladeshi Channel",Rajdhani TV
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVqZfgDAowcJHAFGRBrihS07WxUB6pX6dTkzjvOYjLEWijMxtjQv_ONyJ&s=10" group-title="Bangladeshi Channel",Jonmobhui TV
+https://livess.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
 
 
 
