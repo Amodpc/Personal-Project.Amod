@@ -167,6 +167,10 @@ https://livess.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOYg47gnyOnrCaBobOBp687uM0gb6txc_M9UdaCIdLKQ&s" group-title="Bangladeshi Channel",Nobanno TV
 https://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2Wf0Gm24BGTeeXc0ZZDBZC_ZV7uxXu0S1Q&usqp=CAU" group-title="Bangladeshi Channel",RB TV
+https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
+
+
 
 
 
