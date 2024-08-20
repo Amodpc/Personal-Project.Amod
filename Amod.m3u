@@ -645,7 +645,7 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=wqZkMCj-ofWEn
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" group-title="Jadoo TV",Lotus Macau 
 https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=snfQyBNWiCEasJMw3Fi2yA&expires=1724299128&user=ef71b837ceef4cd18a6cf7069722d83d
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="Jadoo TV", My TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="Jadoo TV", My TV
 https://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=hq4skSnUuURSCIpX8mGj2w&expires=1724299138&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="Jadoo TV", MAASRANGA TV
@@ -682,7 +682,7 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=xkmtu3jqOJtkKBaUK
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/playlist.m3u8?md5=gdAhtBMsOv9UPcGh2UFg1w&expires=1724299276&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="Jadoo TV", SOMOY TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=m6ZPhSP8MnUzPaWZvwxONA&expires=1724299286&user=ef71b837ceef4cd18a6cf7069722d83d
+https://ythls-v3.onrender.com/video/aTzRun7M-fk.m3u8
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sunnah_tv.png" group-title="Jadoo TV", Sunnah TV 
 https://edge01.iptv.digijadoo.net/live/sunnah_tv/playlist.m3u8?md5=NoZO-nmT-d5Yng0As59xQw&expires=1724299296&user=ef71b837ceef4cd18a6cf7069722d83d
