@@ -553,40 +553,40 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-kal&e=.m3u8|Referer=https://mhdtvwe
 
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" group-title="Jadoo TV", ATN BANGLA
-https://bdix.proximitybd.xyz/jado.php?id=atn_bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=PkY3h4XJOQflAwKaHu6CTw&expires=1724271770&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="Jadoo TV", ATN NEWS
-https://bdix.proximitybd.xyz/jado.php?id=atn_news
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=0Qcw6C9AgnwZL5lGgVveeA&expires=1724271786&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="Jadoo TV",AL Jazeera HD
-https://bdix.proximitybd.xyz/jado.php?id=al_jazeera
+https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=DXkHoHCpOx8sC9HLRj37UQ&expires=1724271817&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="Jadoo TV",Anando TV 
-https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=OLS3lVGMnKUpI_xR4nIX_Q&expires=1723075128&user=98fbbc7885a9470e920abab5d870f7c3
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=VfRP8rcu0MLuxE4B-8LdGA&expires=1724271842&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" group-title="Jadoo TV", Arirang
-https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=DFFw1R7tAyQIRS4FEVMkjw&expires=1723075344&user=98fbbc7885a9470e920abab5d870f7c3
+https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=aWPzYeAh-aGqpJKChXvAqA&expires=1724298758&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="Jadoo TV", BBC LIFESTYLE 
-https://bdix.proximitybd.xyz/jado.php?id=bbc_lifestyle
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=I4nxEl7KGQs0JBHTtHufvQ&expires=1724298775&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="Jadoo TV", BBC WORLD
-https://bdix.proximitybd.xyz/jado.php?id=bbc_world
+https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=wMxukmM1stasWeqJDgnzNA&expires=1724298802&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="Jadoo TV", BTV WORLD
-https://bdix.proximitybd.xyz/jado.php?id=btv_world
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=zuh6joFgtHw9F_YQEFKVCA&expires=1724298816&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="Jadoo TV", BANGLA TV
-https://bdix.proximitybd.xyz/jado.php?id=bangla_tv
+https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=mOdp54cVPl5xREqoUI6RZw&expires=1724298832&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="Jadoo TV", BANGLA VISION
-https://bdix.proximitybd.xyz/jado.php?id=bangla_vision
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=BVHxhZ-Pw2ryp37dR0a1cg&expires=1724298844&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="Jadoo TV", BIJOY TV
-https://bdix.proximitybd.xyz/jado.php?id=bijoy_tv
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=3pROSu0osfFBsIyRTvgwFQ&expires=1724298856&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="Jadoo TV", BOISHAKHI TV
-https://bdix.proximitybd.xyz/jado.php?id=boishakhi_tv
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=4S4jTcSnm_sUi08mzpaevQ&expires=1724298867&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" group-title="Jadoo TV", Cbeebies Asia 
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=zOrmER5Qx33Die4g0Kxy5Q&expires=1723075988&user=98fbbc7885a9470e920abab5d870f7c3
