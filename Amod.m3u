@@ -76,8 +76,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
-http://194.42.205.99:8070/live/AmirBilali/76448035/3647.ts
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=wnioFljCBpYyAjr4s3sTOg&expires=1724299171&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV UK
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
@@ -125,7 +124,7 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TTBx59rBiszz
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=VWUxc7EBOulj5pV_aZ4xtQ&expires=1724254263&user=c28278b7cc41459ea95c1d05df91e3e7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangladeshi Channel",Bijoy TV
-http://ktv.im:8080/live/111222/222111/83810.ts
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=3pROSu0osfFBsIyRTvgwFQ&expires=1724298856&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangladeshi Channel",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
