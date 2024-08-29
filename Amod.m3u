@@ -28,10 +28,10 @@ http://watchindia.net:8880/live/65596/46234/2608.m3u8
 http://103.230.105.252:1935/live/btv/manifest_w1943401517.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladeshi Channel",Somoy TV
-https://ythls-v3.onrender.com/video/aTzRun7M-fk.m3u8
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=5fnikgubuLPWyon4BifKBg&expires=1725114080&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangladeshi Channel",Jamuna TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=RNbI0UVDoyelc876JNylVQ&expires=1725114402&user=ef71b837ceef4cd18a6cf7069722d83d
 #http://ktv.im:8080/live/111222/222111/83800.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"group-title="Bangladeshi Channel",Ekhon TV
@@ -51,14 +51,14 @@ http://xtv.ooo:8080/global/global/245915
 http://128.0.104.39:8070/live/AmirBilali/76448035/69342.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=bfV2qSvNFVXmGlHbiV41YA&expires=1724600745&user=ec6dd7dec84545a2a15edb664bb2d4aa
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=umv_3UmWStQ93X5SNmS8eA&expires=1725114555&user=ef71b837ceef4cd18a6cf7069722d83d
 #https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015180-61003768.webp?v=8.2.3"group-title="Bangladeshi Channel",News 24
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
-http://194.42.205.100:8070/live/AmirBilali/76448035/298392.ts
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=NW2AaZCxIQHSKYu8wdDUVg&expires=1725114629&user=ef71b837ceef4cd18a6cf7069722d83d
 #http://ktv.im:8080/live/111222/222111/83782.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla UK
@@ -77,7 +77,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=wnioFljCBpYyAjr4s3sTOg&expires=1724299171&user=ef71b837ceef4cd18a6cf7069722d83d
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=YTnREAqW-cnvrysLuyQadA&expires=1725114703&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV UK
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
@@ -89,7 +89,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangladeshi Channel",Deepto TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=8Euck0YQTXImuPUcoxSknQ&expires=1725114763&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangladeshi Channel",Mohona TV
 http://xtv.ooo:8080/live/414559860/69865599/245920.ts
@@ -102,7 +102,8 @@ https://mytvbangla.com/0.m3u8
 #http://ktv.im:8080/live/111222/222111/83789.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
-https://mtlivestream.com/asian/ytlive/index.m3u8
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=XW2ojma3ODwmzCKn_fiSWA&expires=1725114877&user=ef71b837ceef4cd18a6cf7069722d83d
+#https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangladeshi Channel",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
@@ -116,24 +117,23 @@ https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangladeshi Channel",Banglavision
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=73TQngQOIo4t38qY3WUkeQ&expires=1725114953&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangladeshi Channel",Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=1lo9G7IawNRTZxVnVkUnUQ&expires=1724592604&user=ec6dd7dec84545a2a15edb664bb2d4aa
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=0nn4gQkLN3zFxAqjVPaVtw&expires=1725115056&user=ef71b837ceef4cd18a6cf7069722d83d
 #https://tv5.hoichoi24.com/1113/video.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangladeshi Channel",G TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=J3Sf0yjHGH18EF25ogHpHQ&expires=1724592553&user=ec6dd7dec84545a2a15edb664bb2d4aa
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=wLfJojS_Vbr9PgSjMCYDjQ&expires=1725115131&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangladeshi Channel",Bijoy TV
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=N3MhJexybiVel_pnlEbRbA&expires=1724592500&user=ec6dd7dec84545a2a15edb664bb2d4aa
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=ESPC1jsdi2IqatN_Ltja9w&expires=1725115188&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangladeshi Channel",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/800px-Channel9_bd.svg.png"group-title="Bangladeshi Channel",Channel 9 HD
-https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=ss7mbeHUMQUZaBscXgQ-AA&expires=1724592276&user=ec6dd7dec84545a2a15edb664bb2d4aa
+https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=YRpWZywA_4IDKmx525jU6A&expires=1725115235&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangladeshi Channel",Nexus TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
@@ -420,7 +420,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
 http://ktv.im:8080/live/111222/222111/83779.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sports Channel",T Sports 2
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=GORWCUT1UBKTyVc02KCKlQ&expires=1724600828&user=ec6dd7dec84545a2a15edb664bb2d4aa
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=EsjWBLjQ5DXt6bB7A1ofrA&expires=1725115488&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel",Star Sports 1 HD
 http://103.151.60.2:5050/hoichoi24.com-help-you/index.m3u8
