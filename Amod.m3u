@@ -103,10 +103,6 @@ http://lifetvbd.xyz:8080/live/123/123/80.ts
 https://mytvbangla.com/0.m3u8
 #http://ktv.im:8080/live/111222/222111/83789.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
-http://lifetvbd.xyz:8080/live/123/123/40.ts
-#https://mtlivestream.com/asian/ytlive/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangladeshi Channel",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
@@ -114,6 +110,9 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPQ4ERwFNuwkgW72KcHYQAcUr8nrNmRN5NQ&usqp=CAU"group-title="Bangladeshi Channel",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
+http://lifetvbd.xyz:8080/live/123/123/40.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangladeshi Channel",Anando TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8
