@@ -31,7 +31,7 @@ http://103.230.105.252:1935/live/btv/manifest_w1943401517.m3u8
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=5fnikgubuLPWyon4BifKBg&expires=1725114080&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangladeshi Channel",Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=RNbI0UVDoyelc876JNylVQ&expires=1725114402&user=ef71b837ceef4cd18a6cf7069722d83d
+http://194.42.205.101:8070/live/AmirBilali/76448035/69353.ts
 #http://ktv.im:8080/live/111222/222111/83800.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"group-title="Bangladeshi Channel",Ekhon TV
@@ -39,16 +39,18 @@ https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangladeshi Channel",DBC News
-http://xtv.ooo:8080/live/414559860/69865599/245914.ts
+http://194.42.205.101:8070/live/AmirBilali/76448035/172577.ts
+#http://xtv.ooo:8080/live/414559860/69865599/245914.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangladeshi Channel",Independent TV
-http://xtv.ooo:8080/live/414559860/69865599/245916.ts
+http://iptvtree.net:8080/live/AmirBilali/76448035/165826.ts
+#http://xtv.ooo:8080/live/414559860/69865599/245916.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangladeshi Channel",Ekattor TV
 http://xtv.ooo:8080/global/global/245915
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=umv_3UmWStQ93X5SNmS8eA&expires=1725114555&user=ef71b837ceef4cd18a6cf7069722d83d
+http://iptvtree.net:8080/live/AmirBilali/76448035/69341.ts
 #https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015180-61003768.webp?v=8.2.3"group-title="Bangladeshi Channel",News 24
