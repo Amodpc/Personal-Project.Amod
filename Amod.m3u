@@ -25,10 +25,10 @@ http://watchindia.net:8880/live/65596/46234/2608.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangladeshi Channel",BTV
-http://103.230.105.252:1935/live/btv/manifest_w1943401517.m3u8
+http://lifetvbd.xyz:8080/live/123/123/74.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladeshi Channel",Somoy TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=5fnikgubuLPWyon4BifKBg&expires=1725114080&user=ef71b837ceef4cd18a6cf7069722d83d
+http://livetvbox.live:8080/live/802121/802121/422.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangladeshi Channel",Jamuna TV
 http://194.42.205.101:8070/live/AmirBilali/76448035/69353.ts
@@ -79,7 +79,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=YTnREAqW-cnvrysLuyQadA&expires=1725114703&user=ef71b837ceef4cd18a6cf7069722d83d
+http://livetvbox.live:8080/live/802121/802121/424.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV UK
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
@@ -88,10 +88,10 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Bangladeshi Channel",SATV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+http://livetvbox.live:8080/live/802121/802121/3814.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangladeshi Channel",Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=8Euck0YQTXImuPUcoxSknQ&expires=1725114763&user=ef71b837ceef4cd18a6cf7069722d83d
+http://livetvbox.live:8080/live/802121/802121/1331.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangladeshi Channel",Mohona TV
 http://xtv.ooo:8080/live/414559860/69865599/245920.ts
