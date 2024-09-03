@@ -135,14 +135,14 @@ http://livetvbox.live:8080/live/802121/802121/408.ts
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/800px-Channel9_bd.svg.png"group-title="Bangladeshi Channel",Channel 9 HD
-https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=YRpWZywA_4IDKmx525jU6A&expires=1725115235&user=ef71b837ceef4cd18a6cf7069722d83d
+http://livetvbox.live:8080/live/802121/802121/434.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangladeshi Channel",Nexus TV HD
-https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+http://livetvbox.live:8080/live/802121/802121/411.ts
 #https://ythls-v3.onrender.com/video/idEy9iLMqzk.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"group-title="Bangladeshi Channel",Global TV
-http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj6T_w_m7AVQJvPBebrOSZbI/ts
+http://livetvbox.live:8080/live/802121/802121/4231.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangladeshi Channel",Green TV
 http://starshare.live:8080/live/john1947/john1947/257227.ts
