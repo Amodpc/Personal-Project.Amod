@@ -94,17 +94,17 @@ http://livetvbox.live:8080/live/802121/802121/3814.ts
 http://livetvbox.live:8080/live/802121/802121/1331.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangladeshi Channel",Mohona TV
-http://xtv.ooo:8080/live/414559860/69865599/245920.ts
+http://livetvbox.live:8080/live/802121/802121/397.ts
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014958-5698961.jpg"group-title="Bangladeshi Channel",Desh TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8
+http://lifetvbd.xyz:8080/live/123/123/80.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi Channel",MY TV
 https://mytvbangla.com/0.m3u8
 #http://ktv.im:8080/live/111222/222111/83789.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangladeshi Channel",Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=XW2ojma3ODwmzCKn_fiSWA&expires=1725114877&user=ef71b837ceef4cd18a6cf7069722d83d
+http://lifetvbd.xyz:8080/live/123/123/40.ts
 #https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangladeshi Channel",Bangla TV
