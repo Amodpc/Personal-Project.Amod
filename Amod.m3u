@@ -126,10 +126,10 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=0nn4gQkLN3zF
 #https://tv5.hoichoi24.com/1113/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangladeshi Channel",G TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=wLfJojS_Vbr9PgSjMCYDjQ&expires=1725115131&user=ef71b837ceef4cd18a6cf7069722d83d
+http://lifetvbd.xyz:8080/live/123/123/1686.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangladeshi Channel",Bijoy TV
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=ESPC1jsdi2IqatN_Ltja9w&expires=1725115188&user=ef71b837ceef4cd18a6cf7069722d83d
+http://livetvbox.live:8080/live/802121/802121/408.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangladeshi Channel",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
