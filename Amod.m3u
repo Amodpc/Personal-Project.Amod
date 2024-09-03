@@ -47,9 +47,6 @@ http://xtv.ooo:8080/live/414559860/69865599/245916.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangladeshi Channel",Ekattor TV
 http://xtv.ooo:8080/global/global/245915
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangladeshi Channel",ATN News HD
-http://128.0.104.39:8070/live/AmirBilali/76448035/69342.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=umv_3UmWStQ93X5SNmS8eA&expires=1725114555&user=ef71b837ceef4cd18a6cf7069722d83d
 #https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
@@ -58,8 +55,11 @@ https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=umv_3UmWStQ9
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=NW2AaZCxIQHSKYu8wdDUVg&expires=1725114629&user=ef71b837ceef4cd18a6cf7069722d83d
+http://iptvtree.net:8080/live/AmirBilali/76448035/298392.ts
 #http://ktv.im:8080/live/111222/222111/83782.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangladeshi Channel",ATN News HD
+http://128.0.104.39:8070/live/AmirBilali/76448035/69342.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangladeshi Channel",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
@@ -117,7 +117,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangladeshi Channel",Banglavision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=73TQngQOIo4t38qY3WUkeQ&expires=1725114953&user=ef71b837ceef4cd18a6cf7069722d83d
+http://iptvtree.net:8080/live/AmirBilali/76448035/69335.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangladeshi Channel",Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=0nn4gQkLN3zFxAqjVPaVtw&expires=1725115056&user=ef71b837ceef4cd18a6cf7069722d83d
